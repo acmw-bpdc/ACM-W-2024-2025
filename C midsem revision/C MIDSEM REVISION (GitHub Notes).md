@@ -4,7 +4,6 @@
 
 ### Programming is the process of writing instructions for a computer to perform specific tasks.
 
-### ---
 
 ### **2\. Internal Representation of Data**
 
