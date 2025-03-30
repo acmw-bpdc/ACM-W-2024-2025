@@ -50,3 +50,14 @@ A comprehensive workshop on Microsoft Excel, focusing on:
 - 📈 Creating professional-level charts and reports.  
 
 ---
+
+### **Vercel Workshop 🚀🌍**  
+A hands-on session designed to help participants master GitHub basics and deploy projects seamlessly using Vercel. Topics include:  
+
+🔧 **GitHub Fundamentals** – Repositories, commits, and branches.  
+📤 **Deploying with Vercel** – Step-by-step guide to hosting projects.  
+🌐 **Making Projects Live** – Shareable links for global access.  
+
+By the end of this workshop, you'll have a deployed project and a solid understanding of GitHub and Vercel!
+
+---
